@@ -1,0 +1,75 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, 
+::before {
+    box-sizing: inherit;
+}
+
+.body {
+    font-family: 'Lato', sans-serif;
+    background-image: url("/images/dollarbackground.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: auto;
+       }
+
+.container {
+    max-width: 650px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0px 15px;
+
+}
+.form__labelText {
+    display: inline-block;
+    margin-right: 10px;
+    width: 100%;
+    max-width: 150px;
+}
+
+.form__field {
+    background-color: whitesmoke;
+    width: 100%;
+    max-width: 400px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.form__fieldset {
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 25px 0;
+    padding: 15px;
+    background-color: white;
+}
+
+.form__legend {
+    border-radius: 10px;
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+}
+
+.form__button {
+    border: none;
+    width: 100%;
+    border-radius: 10px;
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+
+}
+
+.form__button:hover {
+    background-color: tomato;
+    transform: scale(1.02);
+
+}
+
+.form__result {
+    color: tomato;
+    text-align: center;
+}
