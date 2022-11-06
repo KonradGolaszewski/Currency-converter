@@ -26,8 +26,8 @@ The page was written with:
             break;
     }
 ```
-##Enjoy!
+## Enjoy!
 
 ---
-
+Ciao,
 **Konrad Gołaszewski**
