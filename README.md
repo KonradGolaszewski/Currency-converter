@@ -3,7 +3,7 @@
 
 ## DEMO
 
-link do strony
+https://konradgolaszewski.github.io/currency-converter/
 
 ### Description
 This is really simple. Firstly, enter amount in PLN, then coose a currency (GBP, USD). Finally, press the button to get the result.
