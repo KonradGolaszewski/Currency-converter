@@ -28,6 +28,5 @@ The page was written with:
 ```
 ## Enjoy!
 
----
 Ciao,
 **Konrad Gołaszewski**
