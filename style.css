@@ -9,7 +9,7 @@ html {
 
 .body {
     font-family: 'Lato', sans-serif;
-    background-image: url("/images/dollarbackground.png");
+    background-image: url("../images/dollarbackground.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: auto;
