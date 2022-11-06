@@ -9,11 +9,11 @@ html {
 
 .body {
     font-family: 'Lato', sans-serif;
-    background-image: url(https://img.freepik.com/fotos-premium/bargeld-hundert-dollar-scheine-dollar-hintergrundbild-verstreute-dollar_76263-2405.jpg?w=2000);
+    background: url("../images/dollarbackground.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: auto;
-       }
+}
 
 .container {
     max-width: 650px;
